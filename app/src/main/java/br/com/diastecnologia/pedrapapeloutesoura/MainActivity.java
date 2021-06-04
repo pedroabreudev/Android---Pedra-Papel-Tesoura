@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void selecionadoPapel(View view) {
         this.opcaoSelecionada("Papel");
+        
 
     }
 
